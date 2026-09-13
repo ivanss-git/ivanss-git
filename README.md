@@ -1,4 +1,4 @@
-# Hi, I'm Ivan Adair Ibarra 👋
+# Hi, I'm Ivan Adair Ibarra 
 
 🎓 Computer Science student at The University of Texas at Arlington  
 🔬 Undergraduate researcher exploring computational biology and algorithmic systems  
