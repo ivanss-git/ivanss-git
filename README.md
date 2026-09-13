@@ -3,7 +3,6 @@
 🎓 Computer Science student at The University of Texas at Arlington  
 🔬 Undergraduate researcher exploring computational biology and algorithmic systems  
 💻 Building full-stack software, data pipelines, and research tools  
-🧬 Currently developing CancerGraph and researching breast cancer data  
 🚀 Consistently practicing algorithms and building new projects
 
 ## 💻 Tech Stack
