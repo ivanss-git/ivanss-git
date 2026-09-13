@@ -51,39 +51,6 @@
 
 ---
 
-## 🔬 Current Research
-
-### CancerGraph
-Computational biology research beginning with **TCGA breast cancer data**, focused on aligning clinical, miRNA, and genomic datasets for predictive modeling and biological relationship discovery.
-
-**Python · Pandas · NumPy · PostgreSQL · MATLAB · TCGA**
-
-### Energy-Aware Process Planning
-Undergraduate research in **5-axis hybrid direct energy deposition**, developing MATLAB-based algorithms for automated G-code and M-code generation and energy-aware process planning.
-
-**MATLAB · Algorithm Design · Optimization · Process Planning**
-
----
-
-## 🚀 Featured Project
-
-### LotStack
-
-Vehicle auction analysis platform that collects and normalizes listing data, estimates costs and market value, and supports purchase decisions through ranked recommendations.
-
-**Java 21 · Spring Boot · PostgreSQL · React · TypeScript · Python · FastAPI**
-
-[Repository](https://github.com/ivanss-git/LotStack-project) · [Live Site](https://lotstack.onrender.com)
-
----
-
-## 🧠 Currently Learning
-
-Algorithms & Data Structures · Theory of Computation · Engineering Probability ·
-Software Engineering · Machine Learning · Computational Biology
-
----
-
 ## 📫 Connect
 
 [Portfolio](YOUR-PORTFOLIO-URL) ·
