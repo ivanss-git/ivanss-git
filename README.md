@@ -1,57 +1,57 @@
-# Hi, I'm Ivan Adair Ibarra 
+# Hi, I'm Ivan Adair Ibarra
 
-🎓 Computer Science student at The University of Texas at Arlington  
-🔬 Undergraduate researcher exploring computational biology and algorithmic systems  
-💻 Building full-stack software, data pipelines, and research tools  
-🚀 Consistently practicing algorithms and building new projects
+Computer Science student at **The University of Texas at Arlington**.
 
-## 💻 Tech Stack
+I build software and research computational approaches to problems in biology, manufacturing, and intelligent systems. I enjoy taking unfamiliar problems, learning how they work, and turning that understanding into something I can build, test, and improve.
 
-### Programming Languages
+## Current Work
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+### CancerGraph
+**Computational Biology · Machine Learning · Research**
 
-### Frontend
+Research project beginning with TCGA breast cancer data, focused on aligning clinical, miRNA, and genomic datasets for predictive modeling and biological relationship discovery.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+`Python` · `Pandas` · `NumPy` · `PostgreSQL` · `MATLAB` · `TCGA / BRCA`
 
-### Backend & APIs
+[View repository →](https://github.com/ivanss-git/CancerGraph)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+### LotStack
+**Full-Stack Development · Data Engineering**
 
-### Databases & Data
+Vehicle auction analysis platform that collects and normalizes listing data, estimates costs and market value, and ranks potential purchases.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+`Java` · `Spring Boot` · `PostgreSQL` · `React` · `TypeScript` · `Python` · `FastAPI` · `Docker`
 
-### DevOps & Tools
+[View repository →](https://github.com/ivanss-git/LotStack-project)
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Energy-Aware Process Planning
+**Undergraduate Research · Algorithms · Manufacturing**
 
-### Research & ML
+Working on energy-aware process planning for 5-axis hybrid direct energy deposition, using MATLAB-based algorithms to automatically generate G-code and M-code for manufacturing processes.
 
-![TCGA](https://img.shields.io/badge/TCGA-Cancer_Genomics-8A2BE2?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Research-blue?style=for-the-badge)
-![Computational Biology](https://img.shields.io/badge/Computational_Biology-Research-green?style=for-the-badge)
+`MATLAB` · `Algorithm Design` · `Process Planning` · `Optimization`
 
----
+## Technologies
 
-## 📫 Connect
+**Languages**  
+Java · Python · TypeScript · JavaScript · SQL · MATLAB
 
-[Portfolio](https://whoami-cdi6.onrender.com) ·
-[LinkedIn](https://www.linkedin.com/in/ivan-ibarra-70a589207/) ·
-[GitHub](https://github.com/ivanss-git)
+**Backend**  
+Spring Boot · FastAPI · REST APIs
+
+**Frontend**  
+React · Vite · HTML · CSS
+
+**Data**  
+PostgreSQL · Pandas · NumPy
+
+**Tools**  
+Git · GitHub · Docker · Flyway
+
+## Currently Exploring
+
+Machine Learning · Computational Biology · Algorithms · Software Engineering · Applied Research
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ivan-ibarra-70a589207/) · [Email](mailto:Ivan.ibarracs@gmail.com)
