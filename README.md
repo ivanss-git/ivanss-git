@@ -24,10 +24,10 @@ Vehicle auction analysis platform that collects and normalizes listing data, est
 
 [View repository →](https://github.com/ivanss-git/LotStack-project)
 
-### Energy-Aware Process Planning
+### Energy-Aware 5-Axis Process Planning
 **Undergraduate Research · Algorithms · Manufacturing**
 
-Working on energy-aware process planning for 5-axis hybrid direct energy deposition, using MATLAB-based algorithms to automatically generate G-code and M-code for manufacturing processes.
+Developing algorithms for geometry-aware process planning and automated G-code/M-code generation for 5-axis hybrid directed energy deposition, with a focus on translating component geometry and physics-based models into executable machine instructions.
 
 `MATLAB` · `Algorithm Design` · `Process Planning` · `Optimization`
 
