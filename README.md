@@ -29,6 +29,9 @@ Vehicle auction analysis platform that collects and normalizes listing data, est
 
 Developing algorithms for geometry-aware process planning and automated G-code/M-code generation for 5-axis hybrid directed energy deposition, with a focus on translating component geometry and physics-based models into executable machine instructions.
 
+[View repository →](https://github.com/ivanss-git/energy-aware-5axis-ded)
+
+
 `MATLAB` · `Algorithm Design` · `Process Planning` · `Optimization`
 
 ## Technologies
