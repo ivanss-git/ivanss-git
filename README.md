@@ -18,7 +18,7 @@ Vehicle auction analysis platform that collects and normalizes listing data, est
 Java · Python · TypeScript · JavaScript · SQL · MATLAB
 
 **Backend**  
-Spring Boot · FastAPI · REST APIs
+Spring Boot · REST APIs
 
 **Frontend**  
 React · Vite · HTML · CSS
