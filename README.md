@@ -8,7 +8,7 @@ I build software and enjoy taking unfamiliar problems, learning how they work, a
 
 Vehicle auction analysis platform that collects and normalizes listing data, estimates costs and market value, and ranks potential purchases.
 
-`Java` · `Spring Boot` · `PostgreSQL` · `React` · `TypeScript` · `Python` · `FastAPI` · `Docker`
+`Java` · `Spring Boot` · `PostgreSQL` · `React` · `TypeScript` · `Python` · `Docker`
 
 [View repository →](https://github.com/ivanss-git/LotStack-project)
 
